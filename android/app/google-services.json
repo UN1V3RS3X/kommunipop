@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "487877105926",
+    "project_id": "kommunipop",
+    "storage_bucket": "kommunipop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487877105926:android:2d863774e9a1c81fe42687",
+        "android_client_info": {
+          "package_name": "com.example.kommunipop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "487877105926-o79tt63pcdrg8ru4ai4dtcprn8hdn80u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBATMH9pGFxERDRqnOlfQHyeeXUM4tU790"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "487877105926-o79tt63pcdrg8ru4ai4dtcprn8hdn80u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
